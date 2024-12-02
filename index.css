@@ -1,0 +1,253 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.top-bg {
+    width: 100%;
+    height: 40px;
+    background-color: #2188b6;
+}
+
+.top-bg {
+    color: #fff;
+    margin-left: 10px;
+}
+
+.top-bg span {
+    height: 40px;
+    line-height: 40px;
+    color: #d3e7f0;
+}
+
+.Navigetion {
+    width: 1140px;
+    height: 54px;
+    background-color: #fff;
+    margin: 0 auto;
+}
+
+.Navigetion .text ul {
+    float: left;
+}
+
+.Navigetion .text ul li {
+    float: left;
+    width: 100px;
+    height: 54px;
+    line-height: 54px;
+    list-style: none;
+}
+
+.Navigetion .img ul {
+    float: right;
+}
+
+.Navigetion .img ul li {
+    float: left;
+    width: 50px;
+    height: 54px;
+    line-height: 54px;
+    list-style: none;
+    position: relative;
+}
+
+.banner-bg {
+    width: 100%;
+    height: 400px;
+    background-color: #2188b6;
+}
+
+.banner {
+    width: 1140px;
+    margin: 0 auto;
+    position: relative;
+    padding-top: 180px;
+}
+
+.banner h1 {
+    font-size: 75px;
+    font-weight: bold;
+    color: white;
+    position: absolute;
+    z-index: 3;
+    top: 0;
+}
+
+.banner input {
+    width: 150px;
+    height: 63px;
+}
+
+.banner p {
+    color: #fff;
+}
+
+.banner h2 {
+    font-size: 75px;
+    font-weight: bold;
+    color: rgba(0,0,0,0.3);
+    position: absolute;
+    left: 5px;
+    top: 4px;
+}
+
+.main {
+    width: 1140px;
+    height: 1460px;
+    margin: 0 auto;
+}
+
+.main div img {
+    width: 375px;
+    height: 382px;
+    
+}
+
+.main hr {
+    color: #ccc;
+}
+
+.main .right {
+    height: 382px;
+    margin: 48px 0;
+    position: relative;
+}
+
+.main .right img {
+    position: absolute;
+    right: 0;
+}
+
+.main .right h3 {
+    width: 600px;
+    font-size: 40px;
+    position: absolute;
+    top: 20px;
+}
+
+.main .right p {
+    width: 600px;
+    position: absolute;
+    top: 70px;
+}
+
+.main .left {
+    height: 382px;
+    margin: 48px 0;
+    position: relative;
+}
+
+.main .left img {
+    position: absolute;
+    left: 0;
+}
+
+.main .left h3 {
+    width: 600px;
+    font-size: 40px;
+    position: absolute;
+    top: 20px;
+    right: 0;
+}
+
+.main .left p {
+    width: 600px;
+    position: absolute;
+    top: 70px;
+    right: 0;
+}
+
+.and-bg {
+    width: 100%;
+    height: 136px;
+    background-color: #2188b6;
+}
+
+.and {
+    width: 1140px;
+    height: 136px;
+    margin: 0 auto;
+}
+
+.and span{
+    height: 136px;
+    font-size: 60px;
+    color: white;
+    font-weight: bold;
+    line-height: 136px;
+}
+
+.bottom {
+    width: 1140px;
+    height: 350px;
+    margin: 0  auto;
+}
+
+.bottom .a {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottom .b {
+    display: flex;
+    justify-content: space-around;
+}
+
+.bottom .a div,
+.bottom .b div {
+    width: 380px;
+    height: 128px;
+}
+
+.logo-secondary {
+    fill: #ffffff;
+}
+
+.navbar-logo .logo-primary {
+    fill: #2c8ebb;
+    transition: fill 500ms ease;
+}
+
+.logo{
+    width: 100px;
+    float: left;
+    margin-right: 32px;
+   
+}
+
+.navbar-icon path {
+    fill: rgba(0, 0, 0, 0.6);
+}
+
+.discord{
+    width: 30px;
+     position: absolute;
+     top: 50%;
+     margin-top: -11px;
+}
+
+.twitter{
+    width: 30px;
+     position: absolute;
+     top: 50%;
+     margin-top: -12px;
+}
+
+.facebook{
+    width: 30px;
+     position: absolute;
+     top: 50%;
+     margin-top: -15px;
+}
+
+.github {
+    width: 30px;
+     position: absolute;
+     top: 50%;
+     margin-top: -15px;
+}
+
+@media screen and (max-width:) {
+    
+}
